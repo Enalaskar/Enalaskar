@@ -24,7 +24,7 @@ I am currently a student in 🗼 [Paris](https://www.paris.fr/) at the general h
 
   [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
   [<img alt="visualstud" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>](https://visualstudio.microsoft.com/)
-  [<img alt="npm" width="50px" src="https://camo.githubusercontent.com/29d90674e9a16ce40c64c8374ddb32d6db4236d403d69bcef1e83aaf57e29f2268747470733a2f2f63646e2e7261776769742e636f6d2f7374616e646172642f7374616e646172642f6d61737465722f646f63732f6c6f676f732f6e706d2e706e67"/>](https://www.npmjs.com/)
+  [<img alt="npm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png"/>](https://www.npmjs.com/)
 
 ## 🔧 OS:
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
