@@ -2,13 +2,13 @@
 
 I am currently a student in 🗼 [Paris](https://www.paris.fr/) at the general high school to then be able to integrate a cybersecurity engineering school!
 
-- 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)!
-- ⚡ I'm [Developer](https://github.com/Enalaskar)!
-- ✨ I'm [Designer](https://www.adobe.com/)!
-- 🎮 I love [Games](https://www.callofduty.com/)!
-- 🎶 I love [Music](https://www.youtube.com/watch?v=tjsdhCT61O4&list=RDtjsdhCT61O4&start_radio=1)!
-- ⚽ I love [Sport](https://www.basic-fit.com/)!
-- 📚 I love [Science](https://www.youtube.com/watch?v=E5LvA8FHBxs)!
+- 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)
+- ⚡ I'm [Developer](https://github.com/Enalaskar)
+- ✨ I'm [Designer](https://www.adobe.com/)
+- 🎮 I love [Games](https://www.callofduty.com/)
+- 🎶 I love [Music](https://www.youtube.com/watch?v=tjsdhCT61O4&list=RDtjsdhCT61O4&start_radio=1)
+- ⚽ I love [Sport](https://www.basic-fit.com/)
+- 📚 I love [Science](https://www.youtube.com/watch?v=E5LvA8FHBxs)
 
 ## 📚 Skills:
 
