@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Enalaskar
 
-I am currently a student in 🗼 [Paris](https://www.paris.fr/) at the general high school to then be able to integrate a cybersecurity engineering school!
+I am currently a student in 🗼[Paris](https://www.paris.fr/) at the general high school to then be able to integrate a cybersecurity engineering school!
 
 - 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)
 - ⚡ I'm [Developer](https://github.com/Enalaskar)
@@ -12,7 +12,7 @@ I am currently a student in 🗼 [Paris](https://www.paris.fr/) at the general h
 
 ## 📚 Skills:
 
-![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
