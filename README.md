@@ -35,7 +35,7 @@ I am currently a student in 🗼[Paris](https://www.paris.fr/) at the general hi
 - ⚽ I love [Sport](https://www.basic-fit.com/)
 - 📚 I love [Science](https://www.youtube.com/watch?v=E5LvA8FHBxs)
 
-## 📚 Skills:
+## 🛠️ Skills:
 
 ![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
