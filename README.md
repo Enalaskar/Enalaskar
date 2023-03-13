@@ -8,11 +8,11 @@ using System;
 
 class Program {
     static void Main(string[] args) {
-        Console.WriteLine("Bonjour, je suis Enalaskar !");
-        Console.WriteLine("Je suis un développeur en apprentissage.");
-        Console.WriteLine("Je suis capable de de déveloper dans plusieurs languages différent.");
-        Console.WriteLine("Mon language principal est le C# !");
-        Console.WriteLine("Je fais principalement des applications web (.NET), des jeux vidéos 3d (Unity & c#), etc..");
+        Console.WriteLine("Hello, I am Enalaskar!");
+        Console.WriteLine("I am a learning developer.");
+        Console.WriteLine("I am capable of developing in several different languages.");
+        Console.WriteLine("My primary language is C#!");
+        Console.WriteLine("I mainly work on web applications (.NET), 3D video games (Unity & C#), etc..");
     }
 }
 ```
