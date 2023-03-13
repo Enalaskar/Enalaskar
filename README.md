@@ -3,6 +3,20 @@
 </p>
 <h3 align="center"><samp> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20" height="20">  welcome to my Github!</samp></h3>
 
+```cs
+using System;
+
+class Program {
+    static void Main(string[] args) {
+        Console.WriteLine("Bonjour, je suis Enalaskar !");
+        Console.WriteLine("Je suis un développeur en apprentissage.");
+        Console.WriteLine("Je suis capable de de déveloper dans plusieurs languages différent.");
+        Console.WriteLine("Mon language principal est le C# !");
+        Console.WriteLine("Je fais principalement des applications web (.NET), des jeux vidéos 3d (Unity & c#), etc..");
+    }
+}
+```
+
 I am currently a student in 🗼[Paris](https://www.paris.fr/) at the general high school to then be able to integrate a cybersecurity engineering school!
 
 - 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)
