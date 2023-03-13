@@ -4,16 +4,14 @@
 <h3 align="center"><samp> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20" height="20">  welcome to my Github!</samp></h3>
 
 I am currently a student in 🗼[Paris](https://www.paris.fr/) at the general high school to then be able to integrate a cybersecurity engineering school!
-<p>
-<h4 align="left"><samp> - 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)
-  - ⚡ I'm [Developer](https://github.com/Enalaskar)
-  - ✨ I'm [Designer](https://www.adobe.com/)
-  - 🎮 I love [Games](https://www.callofduty.com/)
-  - 🎶 I love [Music](https://www.youtube.com/watch?v=tjsdhCT61O4&list=RDtjsdhCT61O4&start_radio=1)
-  - ⚽ I love [Sport](https://www.basic-fit.com/)
-  - 📚 I love [Science](https://www.youtube.com/watch?v=E5LvA8FHBxs)
-    </samp></h4>
-  </p>
+
+- 🎯 I'm [Ethical-Hacking](https://fr.wikipedia.org/wiki/Hacking_%C3%A9thique)
+- ⚡ I'm [Developer](https://github.com/Enalaskar)
+- ✨ I'm [Designer](https://www.adobe.com/)
+- 🎮 I love [Games](https://www.callofduty.com/)
+- 🎶 I love [Music](https://www.youtube.com/watch?v=tjsdhCT61O4&list=RDtjsdhCT61O4&start_radio=1)
+- ⚽ I love [Sport](https://www.basic-fit.com/)
+- 📚 I love [Science](https://www.youtube.com/watch?v=E5LvA8FHBxs)
 
 ## 📚 Skills:
 
