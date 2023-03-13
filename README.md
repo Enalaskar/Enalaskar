@@ -20,8 +20,6 @@ class SoftwareEngineering
         Console.WriteLine("My primary language is C#!");
         Console.WriteLine("I mainly work on web applications (.NET), 3D video games (Unity & C#), etc..");
     }
-
-    ~SoftwareEngineering() { }
 }
 ```
 <h3 align="center"><samp>I am currently a student in 🗼Paris at the general high school to then be able to integrate a cybersecurity engineering school!</samp></h3>
