@@ -46,8 +46,7 @@ class SoftwareEngineering
 
 ## ⚙️ Programming Tools:
 
-  [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/)
-  
+  [<img alt="vscode" width="50px" src="https://i.imgur.com/A9ytwO6.png"/>](https://code.visualstudio.com/) 
   [<img alt="visualstud" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/>](https://visualstudio.microsoft.com/)
 
 ## 🔧 OS:
