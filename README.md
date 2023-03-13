@@ -4,16 +4,24 @@
 <h3 align="center"><samp> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20" height="20">  welcome to my Github!</samp></h3>
 
 ```cs
-using System;
+class SoftwareEngineeringApprentice
+{
+    private string name;
+    private string role;
 
-class Program {
-    static void Main(string[] args) {
-        Console.WriteLine("Hello, I am Enalaskar!");
-        Console.WriteLine("I am a learning developer.");
-        Console.WriteLine("I am capable of developing in several different languages.");
+    public SoftwareEngineeringApprentice()
+    {
+        name = "Enalaskar";
+        role = "SoftwareEngineer";
+    }
+
+    public void Presentation()
+    {
         Console.WriteLine("My primary language is C#!");
         Console.WriteLine("I mainly work on web applications (.NET), 3D video games (Unity & C#), etc..");
     }
+
+    ~SoftwareEngineeringApprentice() { }
 }
 ```
 
