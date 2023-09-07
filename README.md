@@ -18,7 +18,7 @@ class SoftwareEngineering
     public void Presentation()
     {
         Console.WriteLine("My primary language is C#!");
-        Console.WriteLine("I mainly work on web applications (.NET), 3D video games (Unity & C#), etc..");
+        Console.WriteLine("I mainly work on web applications (.NET), 3D video games (Unity), Winform, etc..");
     }
 }
 ```
