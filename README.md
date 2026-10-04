@@ -4,7 +4,7 @@
 
 ```py
  
-CSHARP / CPP / PYTHON / JAVASCRIPT
+CSHARP / CPP / PYTHON / JAVASCRIPT / SQL / PHP
 ImGui / WinForm / DotNet / Blazor / Unity
 Cheat Dev / AdminPanel Dev / WebApp Dev / Game Dev
  
