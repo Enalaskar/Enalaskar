@@ -51,7 +51,4 @@ class Enalaskar:
   <a href="https://enzo-giarrizzo.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-enzo--giarrizzo.pages.dev-8B5CF6?style=flat-square">
   </a>
-  <a href="https://github.com/Enalaskar?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=Enalaskar&style=flat-square&label=views">
-  </a>
 </p>
