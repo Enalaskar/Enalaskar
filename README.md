@@ -3,7 +3,7 @@
 ---
 
 ```py
-class Enalaskar:
+class kod:
     languages  = ["C#", "C++", "Python", "JavaScript", "TypeScript", "SQL", "PHP"]
     frameworks = [".NET", "Blazor", "WinForms", "ImGui", "Unity",
                   "React", "Node.js", "Firebase", "OpenGL", "Vite"]
